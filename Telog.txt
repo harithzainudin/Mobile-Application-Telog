@@ -1,0 +1,26 @@
+2 jenis form
+
+masuk
+-calendar
+-gred
+-berapa telur masuk
+
+-tarikh tamat
+-total that day
+
+keluar
+-calendar
+-gred
+-berapa telur nk keluarkan
+
+-total telur yang tinggal
+
+REPORT
+
+PILIH TARIKH
+-pilih tarikh
+GENERATE
+-tarikh
+-gred berapa masuk
+-gred berapa keluar
+-total telur tinggal hari tersebut

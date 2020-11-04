@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Telog</string>
+    <string name="batch_in">Batch In</string>
+    <string name="batch_out">Batch Out</string>
+</resources>
